@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuditSeverityMicroService", "AuditSeverityMicroService.csproj", "{0879D8C9-332B-49CB-B1DC-1AB9EA2A3820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0879D8C9-332B-49CB-B1DC-1AB9EA2A3820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0879D8C9-332B-49CB-B1DC-1AB9EA2A3820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0879D8C9-332B-49CB-B1DC-1AB9EA2A3820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0879D8C9-332B-49CB-B1DC-1AB9EA2A3820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {878AE454-A042-4CDC-B6E2-F64BB4EC53BA}
+	EndGlobalSection
+EndGlobal
